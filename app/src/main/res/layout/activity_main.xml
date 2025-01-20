@@ -24,6 +24,4 @@
         android:textSize="30dp"
         android:text="PRzejdz do kolejnej aktywności"
         tools:ignore="MissingConstraints" />
-
-
 </LinearLayout>
